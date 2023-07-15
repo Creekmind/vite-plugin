@@ -1,3 +1,3 @@
-console.log('Plugin entrypoint entering...');
+console.log('Plugin entrypoint entering...', '3');
 
 export {};
